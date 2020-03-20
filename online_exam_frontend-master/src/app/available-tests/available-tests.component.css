@@ -1,0 +1,11 @@
+.example-card {
+  max-width: 200px;
+  min-height:200px;
+  border-radius: 10px;
+
+}
+
+.example-header-image {
+
+  background-size: cover;
+}
